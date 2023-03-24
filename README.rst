@@ -188,10 +188,3 @@ Project Contributors
 AppiumLibrary is modeled after (and forked from)  `appiumandroidlibrary <https://github.com/frankbp/robotframework-appiumandroidlibrary>`_,  but re-implemented to use appium 1.X technologies.
 
 
-.. _AppiumLibrary: https://github.com/serhatbolsu/robotframework-appiumlibrary
-.. _Robot Framework: https://robotframework.org
-.. _Keyword Documentation: http://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html
-.. _PyPI: https://pypi.org/project/robotframework-appiumlibrary/
-.. _Robot Framework installation instructions: https://github.com/robotframework/robotframework/blob/master/INSTALL.rst
-.. _Appium Driver Setup Guide: http://appium.io/docs/en/about-appium/getting-started/?lang=en
-.. _sample project: https://github.com/serhatbolsu/robotframework-appium-sample
